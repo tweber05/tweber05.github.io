@@ -9,6 +9,7 @@ body {
 header {
   border: 3px solid black;
 }
+
 h1 {
   font-weight: 700;
   color: green;
@@ -30,8 +31,8 @@ h2 {
   background-color: yellow;
   border-top: 3px dashed red;
   border-left: 3px dashed red;
-
 }
+
 ul {
   color: blue;
   box-sizing: border-box;
