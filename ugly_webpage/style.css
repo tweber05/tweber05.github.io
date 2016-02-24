@@ -82,26 +82,29 @@ ul {
   padding: 12px;
   border-bottom: 6px solid	#9acd32;
   border-top: 8px dotted #708090;
+  color: #b22222;
 }
 
 #container1 {
   width: 82px;
-  background-color: white;
+  background-color: #bdb76b;
   margin-left: 12px;
   box-sizing: border-box;
   float: left;
+  font-weight: 800;
 }
 
 #container2 {
-  width: 47px;
+
   margin-right: 33px;
   padding: 33px;
   box-sizing: border-box;
   float: left;
+  color: #ff8c00;
 }
 
 section {
-  
+
   background-color: #70EBFF;
   margin: 28px;
   padding: 13px;
