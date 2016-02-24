@@ -1,12 +1,20 @@
 body {
   background-color: orange;
+}
 
+header {
+  background-color:;
+  box-sizing: border-box;
+  margin: auto;
+  font-size: 39px;
+  float: left;
+  padding: 74px;
 }
 
 
 p {
   font-family: serif;
-  font-size: 72px;
+  font-size: 10px;
   color: brown;
 
   text-align: center;
@@ -36,7 +44,7 @@ h3 {
 h4 {
   color: yellow;
   font-family: inherit;
-  font-size: 80px;
+  font-size: 72px;
   font-weight: lighter;
 }
 
@@ -55,4 +63,37 @@ h6{
 li {
   margin: 35px;
   border: 5px dashed grey;
+}
+
+ul {
+  padding: 12px;
+  border-bottom: 6px solid black;
+  border-top: 8px solid black;
+}
+
+#container1 {
+  width: 82px;
+  background-color: white;
+  margin-left: 12px;
+  box-sizing: border-box;
+  float: left;
+}
+
+#container2 {
+  width: 47px;
+  margin-right: 33px;
+  padding: 33px;
+  box-sizing: border-box;
+  float: left;
+}
+
+section {
+  width: 88;
+  background-color:
+  margin: 22px;
+  padding: 12px;
+}
+
+footer {
+  font-size: 33px;
 }
