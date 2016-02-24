@@ -23,14 +23,14 @@ header {
 h1 {
   font-weight: 700;
   color: green;
-text-align: center;
+  text-align: center;
 }
 
 p {text-align: center;
   font: 500;
 }
 
-h2 {
+#Ingredients {
   font-weight: 400;
   color: blue;
   box-sizing: border-box;
@@ -55,7 +55,7 @@ ul {
   border-right: 3px dashed red;
 }
 
-h3 {
+#Directions {
   font-weight: 400;
   color: purple;
   box-sizing: border-box;
@@ -68,7 +68,7 @@ h3 {
   border-left: 3px solid green;
 }
 
-ol{
+ol {
   color: purple;
   box-sizing: border-box;
   margin: 20px;
