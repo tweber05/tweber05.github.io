@@ -21,7 +21,7 @@ header {
 }
 
 h1 {
-  font-weight: 700;
+  font-weight: 400;
   color: green;
   text-align: center;
 }
@@ -47,7 +47,7 @@ p {text-align: center;
   color: purple;
   box-sizing: border-box;
   margin: 20px;
-  float: left;
+  float: right;
   padding: 25px;
   width: 225px;
   background-color: orange;
