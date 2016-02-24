@@ -7,7 +7,7 @@ html, body {
 body {
   font-family: "Arimo", serif;
   font-size: 17px;
-  background-color: pink;
+  background-color: #F8F8F8;
 }
 
 img {
@@ -39,20 +39,7 @@ p {text-align: center;
   padding: 20px;
   width: 225px;
   background-color: yellow;
-  border-top: 3px dashed red;
-  border-left: 3px dashed red;
-}
-
-ul {
-  color: blue;
-  box-sizing: border-box;
-  margin: 22px;
-  float: left;
-  padding: 22px;
-  width: 300px;
-  background-color: yellow;
-  border-top: 3px dashed red;
-  border-right: 3px dashed red;
+  border: 3px dashed red;
 }
 
 #Directions {
@@ -64,18 +51,5 @@ ul {
   padding: 25px;
   width: 225px;
   background-color: orange;
-  border-top: 3px solid green;
-  border-left: 3px solid green;
-}
-
-ol {
-  color: purple;
-  box-sizing: border-box;
-  margin: 20px;
-  float: left;
-  padding: 25px;
-  width: 300px;
-  background-color: orange;
-  border-top: 3px solid green;
-  border-right: 3px solid green;
+  border: 3px solid green;
 }
