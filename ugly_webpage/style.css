@@ -5,14 +5,15 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italic);
-
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200);
 
 body {
   background-color: #808000;
 }
 
 header {
-  
+
   background-color: #d2691e;
   box-sizing: border-box;
   margin: auto;
@@ -51,7 +52,7 @@ h2 {
 
 h3 {
   color: #4169e1;
-  font-family: monospace;
+  font-family: "Indie Flower", sans-serif;
   font-size: 50px;
   padding: 5px;
 }
@@ -71,8 +72,9 @@ h5{
 
 h6{
   color: blue;
-  font-size: 12px;
+  font-size: 400;
   font-weight: bolder;
+  font-family: monospace;
 }
 
 li {
@@ -145,4 +147,10 @@ footer {
   float: left;
   padding: 13px;
 
+}
+
+#container8 {
+  font-size: 200;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: 	#dda0dd;
 }
