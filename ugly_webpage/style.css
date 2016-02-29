@@ -7,6 +7,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italic);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200);
+@import url(https://fonts.googleapis.com/css?family=Dosis:600);
 
 body {
   background-color: #808000;
@@ -55,6 +56,7 @@ h3 {
   font-family: "Indie Flower", sans-serif;
   font-size: 50px;
   padding: 5px;
+
 }
 
 h4 {
@@ -121,6 +123,7 @@ footer {
   font-size: 400;
   background-color: #cd853f;
   font-family: "Lora", sans-serif;
+  text-align: right;
 }
 
 #container4 {
@@ -153,4 +156,27 @@ footer {
   font-size: 200;
   font-family: 'Yanone Kaffeesatz', sans-serif;
   color: 	#dda0dd;
+}
+
+#container9 {
+  letter-spacing: 5px;
+  text-decoration: underline;
+  color: #00ffff;
+}
+
+#container10 {
+  letter-spacing: 12px;
+  color:	#00ff7f;
+}
+
+#container11 {
+  text-decoration: line-through;
+  font-family: "Dosis", sans-serif;
+  font-size: 600;
+}
+
+#container13 {
+  padding: 20px;
+  letter-spacing: 18px;
+  text-decoration: overline;
 }
