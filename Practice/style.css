@@ -1,0 +1,177 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,300italic,400italic,500,500italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italic);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200);
+@import url(https://fonts.googleapis.com/css?family=Dosis:600);
+
+body {
+  background-color: #808000;
+  font-size: 15px;
+}
+
+header {
+  background-color: #d2691e;
+  box-sizing: border-box;
+  margin: auto;
+
+  float: left;
+  padding: 74px;
+  font-style: italic;
+  font-family: "PT Sans Narrow," sans-serif;
+}
+
+img {
+}
+
+p {
+
+  color: brown;
+  text-align: center;
+  font-family: "Droid Sans", sans-serif;
+}
+
+h1 {
+  color: red;
+  font-family: cursive;
+
+  background-color: #ffd700;
+  max-width: 900px;
+  position: fixed;
+}
+
+h2 {
+  color: purple;
+  font-family: fantasy;
+
+  float: right;
+}
+
+h3 {
+  color: #4169e1;
+  font-family: "Indie Flower", sans-serif;
+
+  padding: 5px;
+}
+
+h4 {
+  color: yellow;
+  font-family: "Montserrat", serif;
+
+  font-weight: lighter;
+}
+
+h5{
+  color: pink;
+  font-family: "Ubuntu", serif;
+
+}
+
+h6{
+  color: blue;
+
+  font-weight: bolder;
+  font-family: monospace;
+  margin-left: 250px;
+}
+
+
+#container1 {
+  width: 100px;
+  background-color: #bdb76b;
+  margin-left: 28px;
+  margin-right: 22px;
+  box-sizing: border-box;
+  float: left;
+  font-weight: 800;
+  word-spacing: 20px;
+}
+
+#container2 {
+  margin-right: 33px;
+  padding: 33px;
+  box-sizing: border-box;
+  float: left;
+  color: #ff8c00;
+}
+
+#container4 {
+  background-color: #70EBFF;
+  margin: 28px;
+  padding: 13px;
+  box-sizing: border-box;
+  float: left;
+  line-height: 200px;
+}
+
+#container5 {
+  background-color: #228b22;
+  box-sizing: border-box;
+  margin: auto;
+  float: left;
+  word-spacing: 88px;
+}
+
+#container6 {
+
+  font-family: "Oswald", serif;
+  background-color: #8b008b;
+  box-sizing: border-box;
+  float: left;
+  padding: 12px;
+  letter-spacing: 72px;
+}
+
+#container7 {
+
+  font-family: "Open Sans", serif;
+  background-color: #8fbc8f;
+  box-sizing: border-box;
+  float: left;
+  padding: 13px;
+}
+
+#container8 {
+
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: 	#dda0dd;
+}
+
+#container9 {
+  letter-spacing: 5px;
+  text-decoration: underline;
+  color: #00ffff;
+  word-spacing: 12px;
+  margin-left: 36px;
+}
+
+#container10 {
+  letter-spacing: 12px;
+  color:	#00ff7f;
+  font-style: oblique;
+  margin-left: 32px;
+}
+
+#container11 {
+  text-decoration: line-through;
+  font-family: "Dosis", sans-serif;
+  ;
+}
+
+#container13 {
+  padding: 17px;
+  letter-spacing: 18px;
+  text-decoration: overline;
+}
+
+
+footer {
+
+  background-color: #cd853f;
+  font-family: "Lora", sans-serif;
+  text-align: right;
+}
