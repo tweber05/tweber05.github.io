@@ -10,39 +10,36 @@
 @import url(https://fonts.googleapis.com/css?family=Dosis:600);
 
 body {
-  background-color: #808000;
-  font-size: 15px;
+  background-color: #00ff7f;
 }
 
 header {
-  background-color: #d2691e;
+  background-color: #dda0dd;
+  color: #8a2be2;
   box-sizing: border-box;
-  margin: auto;
-
   float: left;
-  padding: 74px;
-  font-style: italic;
-  font-family: "PT Sans Narrow," sans-serif;
+  padding: 42px;
+  font-size: 50px;
+  font-family: "Montserrat", serif;
 }
+h1 {
+  color: #f5f5dc;
+  background-color: #8a2be2;
+  font-family: "Indie Flower", serif;
+}
+
 
 img {
 }
 
 p {
-
-  color: brown;
+  color: pink;
   text-align: center;
-  font-family: "Droid Sans", sans-serif;
+  font-family: "Indie Flower", serif;
+  font-size: 15px;
 }
 
-h1 {
-  color: red;
-  font-family: cursive;
 
-  background-color: #ffd700;
-  max-width: 900px;
-  position: fixed;
-}
 
 h2 {
   color: purple;
@@ -100,7 +97,7 @@ h6{
 }
 
 #container4 {
-  background-color: #70EBFF;
+
   margin: 28px;
   padding: 13px;
   box-sizing: border-box;
