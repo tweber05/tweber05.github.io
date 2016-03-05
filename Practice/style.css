@@ -10,11 +10,13 @@
 @import url(https://fonts.googleapis.com/css?family=Dosis:600);
 
 body {
-  background-color: #00ff7f;
+  background-color: #40495b;
+  background-image: url("sunfav.jpg");
+  position: relative;
 }
 header {
-  background-color: #8a2be2;
-font-family: "Montserrat", serif;
+  background-color: #7e8185;
+  font-family: "Montserrat", serif;
   font-size: 25px;
 }
   h1 {
@@ -35,6 +37,37 @@ h2 {
   font-family: "Indie Flower", serif;
   font-size: 20px;
   box-sizing: border-box;
+}
+
+#photo1 {
+  padding-left: 200px;
+  padding-bottom: 20px;
+  box-sizing: border-box;
+}
+#photo2 {
+padding-left: 200px;
+padding-bottom: 20px;
+box-sizing: border-box;
+}
+#photo3 {
+padding-left: 200px;
+padding-bottom: 20px;
+box-sizing: border-box;
+}
+#photo4 {
+  padding-left: 200px;
+  padding-bottom: 20px;
+  box-sizing: border-box;
+}
+#photo5 {
+padding-left: 200px;
+padding-bottom: 20px;
+box-sizing: border-box;
+}
+#photo6 {
+padding-left: 200px;
+padding-bottom: 20px;
+box-sizing: border-box;
 }
 
 footer {
