@@ -15,20 +15,21 @@ body {
   position: relative;
 }
 header {
-  background-color: #7e8185;
+  background-color: #40495b;
   font-family: "Montserrat", serif;
-  font-size: 25px;
+  border: 4px solid black;
+  margin-bottom: 20px;
 }
   h1 {
   color: #f5f5dc;
   font-size: 45px;
-  border-bottom: 7px solid black;
+  border-bottom: 7px solid #c1c2c0;
   padding: 5px;
 }
 h2 {
   color: pink;
   font-size: 25px;
-  border-top: 7px solid black;
+  border-top: 7px solid #c1c2c0;
   padding: 5px;
 }
 #para1 {
@@ -42,32 +43,44 @@ h2 {
 #photo1 {
   padding-left: 200px;
   padding-bottom: 20px;
+  padding-top: 30px;
   box-sizing: border-box;
+  border-top: 5px solid #c1c2c0;
 }
 #photo2 {
 padding-left: 200px;
 padding-bottom: 20px;
+padding-top: 30px;
 box-sizing: border-box;
+border-top: 5px solid #c1c2c0;
 }
 #photo3 {
-padding-left: 200px;
-padding-bottom: 20px;
-box-sizing: border-box;
+  padding-left: 200px;
+  padding-bottom: 20px;
+  padding-top: 30px;
+  box-sizing: border-box;
+  border-top: 5px solid #c1c2c0;
 }
 #photo4 {
   padding-left: 200px;
   padding-bottom: 20px;
+  padding-top: 30px;
   box-sizing: border-box;
+  border-top: 5px solid #c1c2c0;
 }
 #photo5 {
-padding-left: 200px;
-padding-bottom: 20px;
-box-sizing: border-box;
+  padding-left: 200px;
+  padding-bottom: 20px;
+  padding-top: 30px;
+  box-sizing: border-box;
+  border-top: 5px solid #c1c2c0;
 }
 #photo6 {
 padding-left: 200px;
 padding-bottom: 20px;
+padding-top: 30px;
 box-sizing: border-box;
+border-top: 5px solid #c1c2c0;
 }
 
 footer {
