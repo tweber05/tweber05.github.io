@@ -1,10 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
-@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
-@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,300italic,400italic,500,500italic,700,700italic);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italic);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200);
 @import url(https://fonts.googleapis.com/css?family=Dosis:600);
@@ -82,7 +77,52 @@ padding-top: 30px;
 box-sizing: border-box;
 border-top: 5px solid #c1c2c0;
 }
-
-footer {
-
+#photo7 {
+padding-left: 200px;
+padding-bottom: 20px;
+padding-top: 30px;
+box-sizing: border-box;
+border-top: 5px solid #c1c2c0;
+}
+#photo8 {
+padding-left: 200px;
+padding-bottom: 20px;
+padding-top: 30px;
+box-sizing: border-box;
+border-top: 5px solid #c1c2c0;
+}
+#photo9 {
+padding-left: 200px;
+padding-bottom: 20px;
+padding-top: 30px;
+box-sizing: border-box;
+border-top: 5px solid #c1c2c0;
+}
+#photo10 {
+padding-left: 200px;
+padding-bottom: 20px;
+padding-top: 30px;
+box-sizing: border-box;
+border-top: 5px solid #c1c2c0;
+}
+#photo11 {
+padding-left: 200px;
+padding-bottom: 20px;
+padding-top: 30px;
+box-sizing: border-box;
+border-top: 5px solid #c1c2c0;
+}
+#photo12 {
+padding-left: 200px;
+padding-bottom: 20px;
+padding-top: 30px;
+box-sizing: border-box;
+border-top: 5px solid #c1c2c0;
+}
+#photo13 {
+padding-left: 200px;
+padding-bottom: 20px;
+padding-top: 30px;
+box-sizing: border-box;
+border-top: 5px solid #c1c2c0;
 }
