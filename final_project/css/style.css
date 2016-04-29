@@ -1,8 +1,6 @@
 header {
-  margin: 0 auto;
   background-color: gray;
   padding: 2px;
-  width: 1299px;
 }
 
 h1{
@@ -21,16 +19,14 @@ h2{
   margin-top: 1px;
   font-size: 30px;
   font-weight: bold;
-  float: left;
+
   margin-bottom: 5px;
   color: #add2f9;
 }
 
 nav {
-  margin: 0 auto;
   text-align: right;
   border-bottom: 7px solid #ccc8c2;
-
 }
 
 nav a {
@@ -42,28 +38,26 @@ nav a {
 }
 
 body {
-  margin: 0;
-  padding: 0;
   background-color: white;
 }
 
 
 #photo1 {
-  margin-left: 120px;
+  text-align: center;
   margin-top: 40px;
-  border: 3px solid black;
 }
 
-.container{
-
-  margin-left: 15px;
+#photo2 {
+  margin-top: 40px;
 }
 
-.container2{
-  margin-top: 50px;
-  margin-left: 30px;
+#photo3 {
+  margin-top: 40px;
 }
 
+#photo4 {
+  margin-top: 40px;
+}
 
 #title1{
   text-align: center;
