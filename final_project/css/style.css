@@ -1,0 +1,87 @@
+header {
+  margin: 0 auto;
+  background-color: gray;
+  padding: 2px;
+  width: 1299px;
+}
+
+h1{
+  padding-bottom: 8px;
+  font-weight: bold;
+  font-size: 45px;
+  border-bottom: 5px solid #ccc8c2;
+  padding: 1px;
+  color: black;
+  text-align: left;
+  width: 400px;
+}
+
+h2{
+  margin-left: 120px;
+  margin-top: 1px;
+  font-size: 30px;
+  font-weight: bold;
+  float: left;
+  margin-bottom: 5px;
+  color: #add2f9;
+}
+
+nav {
+  margin: 0 auto;
+  text-align: right;
+  border-bottom: 7px solid #ccc8c2;
+
+}
+
+nav a {
+  text-decoration: none;
+  margin: 0 30px;
+  font-size: 30px;
+  color: #74a6fa;
+  font-family: "Bitter", serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+
+#photo1 {
+  margin-left: 120px;
+  margin-top: 40px;
+  border: 3px solid black;
+}
+
+.container{
+
+  margin-left: 15px;
+}
+
+.container2{
+  margin-top: 50px;
+  margin-left: 30px;
+}
+
+
+#title1{
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+  margin-top: 10px;
+}
+
+#title2{
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+  margin-top: 10px;
+}
+
+#title3{
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+  margin-top: 10px;
+}
