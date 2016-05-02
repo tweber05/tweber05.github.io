@@ -1,56 +1,60 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700);
-
+@import url(https://fonts.googleapis.com/css?family=PT+Serif);
 
 
 
 header {
-  background-color: gray;
+  background-color: #7AF4FF;
   padding: 2px;
 }
 
 h1{
   padding-bottom: 8px;
   font-weight: bold;
-  font-size: 45px;
-  border-bottom: 5px solid #ccc8c2;
+  font-size: 50px;
+  border-bottom: 5px solid #274580;
   padding: 1px;
-  color: black;
+color: #f6f9f9;
   text-align: left;
-  width: 400px;
-  font-family: 'Playfair Display', serif;
+  width: 530px;
+  font-family: 'PT Serif', serif;
+  letter-spacing: 3px;
 }
 
 h2{
-  margin-left: 120px;
+  margin-left: 160px;
   margin-top: 1px;
-  font-size: 30px;
+  font-size: 35px;
   font-weight: bold;
 font-family: 'Playfair Display', serif;
   margin-bottom: 5px;
-  color: #add2f9;
+  color: #00B1DA;
+  letter-spacing: 3px;
 }
 
 nav {
   text-align: right;
-  border-bottom: 7px solid #ccc8c2;
 }
 
 nav a {
   text-decoration: none;
-  margin: 0 30px;
+  margin: 0 20px;
   font-size: 30px;
-  color: #74a6fa;
-  font-family: 'Playfair Display', serif;
+  color: #274580;
+  font-family: 'PT Serif', serif;
+  font-weight: bold;
+  letter-spacing: 2px;
 }
 
 body {
-  background-color: white;
+  background-color: #274580;
 }
 
 
 #photo1 {
   text-align: center;
   margin-top: 50px;
+  border: 5px solid #c0c0c0;
 }
 
 #photo11{
@@ -58,10 +62,33 @@ body {
   margin-top: 50px;
   margin-bottom: 50px;
   margin-right: 20px;
+  border: 5px solid #c0c0c0;
 }
 
 p {
   margin-top: 50px;
+  color: #c0c0c0;
+  font-size: 25px;
+}
+.about{
+  color: #c0c0c0;
+  font-size: 20px;
+    margin-top: 50px;
+}
+.contact {
+    color: #c0c0c0;
+    font-size: 20px;
+      margin-top: 50px;
+}
+.contact2{
+  color: #c0c0c0;
+  font-size: 20px;
+    margin-top: 50px;
+}
+.contact3 {
+  color: #c0c0c0;
+  font-size: 20px;
+    margin-top: 50px;
 }
 
 #photo2 {
@@ -151,4 +178,8 @@ p {
   text-decoration: underline;
   margin-top: 10px;
   font-family: 'Playfair Display', serif;
+}
+
+a{
+  color: #00B1DA;
 }
