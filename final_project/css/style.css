@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif);
-
+@import url(https://fonts.googleapis.com/css?family=Lora);
 
 
 header {
@@ -69,36 +69,47 @@ p {
   margin-top: 50px;
   color: #c0c0c0;
   font-size: 25px;
+  font-family: 'Lora', serif;
 }
 .about{
   color: #c0c0c0;
   font-size: 20px;
     margin-top: 50px;
+font-family: 'PT Serif', serif;
 }
 .contact {
     color: #c0c0c0;
-    font-size: 20px;
+    font-size: 25px;
       margin-top: 50px;
+  font-family: 'Lora', serif;
+  margin-left: 160px;
 }
 .contact2{
   color: #c0c0c0;
-  font-size: 20px;
+  font-size: 25px;
     margin-top: 50px;
+font-family: 'Lora', serif;
+margin-left: 160px;
 }
 .contact3 {
   color: #c0c0c0;
-  font-size: 20px;
+  font-size: 25px;
     margin-top: 50px;
+  font-family: 'Lora', serif;
+  margin-left: 160px;
 }
 
 #photo2 {
   margin-top: 40px;
+  border: 5px solid white;
 }
 #photo3 {
   margin-top: 40px;
+  border: 5px solid white;
 }
 #photo4 {
   margin-top: 40px;
+  border: 5px solid white;
 }
 #photo5 {
   margin-top: 40px;
