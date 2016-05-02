@@ -38,7 +38,7 @@ nav {
 
 nav a {
   text-decoration: none;
-  margin: 0 20px;
+  margin: 0 15px;
   font-size: 30px;
   color: #274580;
   font-family: 'PT Serif', serif;
@@ -53,20 +53,21 @@ body {
 
 #photo1 {
   text-align: center;
-  margin-top: 50px;
+  margin-top: 60px;
   border: 5px solid #c0c0c0;
+
 }
 
 #photo11{
   float: left;
-  margin-top: 50px;
+  margin-top: 60px;
   margin-bottom: 50px;
   margin-right: 20px;
   border: 5px solid #c0c0c0;
 }
 
 p {
-  margin-top: 50px;
+  margin-top: 60px;
   color: #7AF4FF;
   font-size: 25px;
   font-family: 'Lora', serif;
@@ -74,48 +75,48 @@ p {
 .about{
   color: #c0c0c0;
   font-size: 20px;
-    margin-top: 50px;
+    margin-top: 60px;
 font-family: 'PT Serif', serif;
 }
 .contact {
     color: #c0c0c0;
     font-size: 25px;
-      margin-top: 50px;
+      margin-top: 60px;
   font-family: 'Lora', serif;
   margin-left: 160px;
 }
 .contact2{
   color: #c0c0c0;
   font-size: 25px;
-    margin-top: 50px;
+    margin-top: 60px;
 font-family: 'Lora', serif;
 margin-left: 160px;
 }
 .contact3 {
   color: #c0c0c0;
   font-size: 25px;
-    margin-top: 50px;
+    margin-top: 60px;
   font-family: 'Lora', serif;
   margin-left: 160px;
 }
 
 #photo2 {
-  margin-top: 40px;
+  margin-top: 60px;
   border: 5px solid white;
 }
 #photo3 {
-  margin-top: 40px;
+  margin-top: 60px;
   border: 5px solid white;
 }
 #photo4 {
-  margin-top: 40px;
+  margin-top: 60px;
   border: 5px solid white;
 }
 #photo5 {
-  margin-top: 40px;
+  margin-top: 60px;
 }
 #photo6 {
-  margin-top: 40px;
+  margin-top: 60px;
 }
 #photo7 {
   margin-top: 40px;
@@ -134,7 +135,7 @@ margin-left: 160px;
   margin-top: 40px;
 }
 #photo13 {
-  margin-top: 40px;
+  margin-top: 60px;
 }
 #photo14 {
   margin-top: 40px;
@@ -146,10 +147,10 @@ margin-left: 160px;
   margin-top: 40px;
 }
 #photo17 {
-  margin-top: 40px;
+  margin-top: 60px;
 }
 #photo18 {
-  margin-top: 40px;
+  margin-top: 60px;
 }
 #photo19 {
   margin-top: 40px;
@@ -164,7 +165,7 @@ margin-left: 160px;
   margin-top: 40px;
 }
 #photo23{
-  margin-top: 40px;
+  margin-top: 60px;
 }
 
 #title1{
