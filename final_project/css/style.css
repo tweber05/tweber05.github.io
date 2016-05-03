@@ -79,26 +79,25 @@ p {
     margin-top: 60px;
 font-family: 'PT Serif', serif;
 }
+
+.input-group-addon{
+  background-color: #274580;
+  border: none;
+}
 .contact {
-    color: #274580;
-    font-size: 25px;
-      margin-top: 60px;
+    margin-top: 60px;
+    font-family: 'Lora', serif;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.contact2{
+  margin-top: 60px;
   font-family: 'Lora', serif;
   margin-left: 160px;
   margin-right: 160px;
 }
-.contact2{
-  color: #274580;
-  font-size: 25px;
-    margin-top: 60px;
-font-family: 'Lora', serif;
-margin-left: 160px;
-margin-right: 160px;
-}
 .contact3 {
-  color: #274580;
-  font-size: 25px;
-    margin-top: 60px;
+  margin-top: 60px;
   font-family: 'Lora', serif;
   margin-left: 160px;
   margin-right: 160px;
