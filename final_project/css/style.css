@@ -19,6 +19,7 @@ color: #f6f9f9;
   width: 530px;
   font-family: 'PT Serif', serif;
   letter-spacing: 3px;
+  padding-left: 3px;
 }
 
 h2{
@@ -84,6 +85,7 @@ font-family: 'PT Serif', serif;
       margin-top: 60px;
   font-family: 'Lora', serif;
   margin-left: 160px;
+  margin-right: 160px;
 }
 .contact2{
   color: #c0c0c0;
@@ -91,6 +93,7 @@ font-family: 'PT Serif', serif;
     margin-top: 60px;
 font-family: 'Lora', serif;
 margin-left: 160px;
+margin-right: 160px;
 }
 .contact3 {
   color: #c0c0c0;
@@ -98,6 +101,7 @@ margin-left: 160px;
     margin-top: 60px;
   font-family: 'Lora', serif;
   margin-left: 160px;
+  margin-right: 160px;
 }
 
 #photo2 {
