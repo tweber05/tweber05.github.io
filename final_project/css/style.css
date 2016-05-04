@@ -102,6 +102,10 @@ font-family: 'PT Serif', serif;
   margin-right: 160px;
 }
 
+.container{
+  position: static;
+}
+
 #photo2 {
   margin-top: 60px;
 
