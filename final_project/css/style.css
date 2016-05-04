@@ -16,21 +16,23 @@ h1{
   padding: 1px;
 color: #f6f9f9;
   text-align: left;
-  width: 530px;
+  width: 540px;
   font-family: 'PT Serif', serif;
   letter-spacing: 3px;
   padding-left: 3px;
+  text-shadow: -1px -1px 0px rgba(255,255,255,0.3), 1px 1px 0px rgba(0,0,0,0.8);
 }
 
 h2{
   margin-left: 160px;
   margin-top: 1px;
-  font-size: 35px;
+  font-size: 37px;
   font-weight: bold;
 font-family: 'Playfair Display', serif;
   margin-bottom: 5px;
   color: #00B1DA;
   letter-spacing: 3px;
+  text-shadow: -1px -1px 0px rgba(255,255,255,0.3), 1px 1px 0px rgba(0,0,0,0.8);
 }
 
 nav {
@@ -180,6 +182,7 @@ font-family: 'PT Serif', serif;
   text-decoration: underline;
   margin-top: 10px;
   font-family: 'Playfair Display', serif;
+  letter-spacing: 1px;
 }
 
 #title2{
@@ -188,6 +191,7 @@ font-family: 'PT Serif', serif;
   text-decoration: underline;
   margin-top: 10px;
   font-family: 'Playfair Display', serif;
+  letter-spacing: 1px;
 }
 
 #title3{
@@ -196,6 +200,7 @@ font-family: 'PT Serif', serif;
   text-decoration: underline;
   margin-top: 10px;
   font-family: 'Playfair Display', serif;
+  letter-spacing: 1px;
 }
 
 a{
