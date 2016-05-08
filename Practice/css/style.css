@@ -1,0 +1,269 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif);
+@import url(https://fonts.googleapis.com/css?family=Lora);
+
+
+header {
+  background-color: #7AF4FF;
+  padding: 2px;
+}
+
+h1{
+  padding-bottom: 8px;
+  font-weight: bold;
+  font-size: 50px;
+  border-bottom: 5px solid #274580;
+  padding: 1px;
+color: #f6f9f9;
+  text-align: left;
+  width: 540px;
+  font-family: 'PT Serif', serif;
+  letter-spacing: 3px;
+  padding-left: 3px;
+  text-shadow: -1px -1px 0px rgba(255,255,255,0.3), 1px 1px 0px rgba(0,0,0,0.8);
+}
+
+h2{
+  margin-left: 160px;
+  margin-top: 1px;
+  font-size: 37px;
+  font-weight: bold;
+font-family: 'Playfair Display', serif;
+  margin-bottom: 5px;
+  color: #00B1DA;
+  letter-spacing: 3px;
+  text-shadow: -1px -1px 0px rgba(255,255,255,0.3), 1px 1px 0px rgba(0,0,0,0.8);
+}
+
+nav {
+  text-align: right;
+}
+
+nav a {
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 30px;
+  color: #274580;
+  font-family: 'PT Serif', serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+body {
+  background-color: #274580;
+}
+
+
+#photo1 {
+  text-align: center;
+  margin-top: 60px;
+  border: 5px solid #c0c0c0;
+}
+
+#photo11{
+  float: left;
+  margin-top: 60px;
+  margin-bottom: 50px;
+  margin-right: 20px;
+  border: 5px solid #c0c0c0;
+}
+
+p {
+  margin-top: 60px;
+  color: #7AF4FF;
+  font-size: 25px;
+  font-family: 'Lora', serif;
+}
+.about{
+  color: #c0c0c0;
+  font-size: 20px;
+    margin-top: 60px;
+font-family: 'PT Serif', serif;
+}
+
+.input-group-addon{
+  background-color: #274580;
+  border: none;
+}
+.contact {
+    margin-top: 60px;
+    font-family: 'Lora', serif;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.contact2{
+  margin-top: 60px;
+  font-family: 'Lora', serif;
+  margin-left: 160px;
+  margin-right: 160px;
+}
+.contact3 {
+  margin-top: 60px;
+  font-family: 'Lora', serif;
+  margin-left: 160px;
+  margin-right: 160px;
+}
+
+.container{
+  position: static;
+}
+
+#photo2 {
+  margin-top: 60px;
+
+}
+#photo3 {
+  margin-top: 60px;
+
+}
+#photo4 {
+  margin-top: 60px;
+
+}
+#photo5 {
+  margin-top: 60px;
+}
+#photo6 {
+  margin-top: 60px;
+}
+#photo7 {
+  margin-top: 40px;
+}
+#photo8 {
+  margin-top: 40px;
+}
+#photo9 {
+  margin-top: 40px;
+}
+#photo10 {
+  margin-top: 40px;
+}
+
+#photo12 {
+  margin-top: 40px;
+}
+#photo13 {
+  margin-top: 60px;
+}
+#photo14 {
+  margin-top: 40px;
+}
+#photo15 {
+  margin-top: 40px;
+}
+#photo16 {
+  margin-top: 40px;
+}
+#photo17 {
+  margin-top: 60px;
+}
+#photo18 {
+  margin-top: 60px;
+}
+#photo19 {
+  margin-top: 40px;
+}
+#photo20 {
+  margin-top: 40px;
+}
+#photo21 {
+  margin-top: 40px;
+}
+#photo22{
+  margin-top: 40px;
+}
+#photo23{
+  margin-top: 60px;
+}
+
+#title1{
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+  margin-top: 10px;
+  font-family: 'Playfair Display', serif;
+  letter-spacing: 1px;
+}
+
+#title2{
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+  margin-top: 10px;
+  font-family: 'Playfair Display', serif;
+  letter-spacing: 1px;
+}
+
+#title3{
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+  margin-top: 10px;
+  font-family: 'Playfair Display', serif;
+  letter-spacing: 1px;
+}
+
+a{
+  color: #00B1DA;
+}
+
+#title4{
+  text-align: left;
+}
+#title5{
+text-align: right;
+}
+#title6{
+text-align: left;
+}
+#title7{
+text-align: right;
+}
+#title8{
+text-align: right;
+}
+#title9{
+text-align: left;
+}
+#title10{
+text-align: left;
+}
+#title11{
+text-align: left;
+}
+#title12{
+text-align: right;
+}
+#title13{
+text-align: right;
+}
+#title14{
+text-align: left;
+}
+#title15{
+text-align: right;
+}
+#title16{
+text-align: left;
+}
+#title17{
+text-align: right;
+}
+#title18{
+text-align: left;
+}
+#title19{
+text-align: right;
+}
+#title20{
+text-align: left;
+}
+#title21{
+text-align: right;
+}
+#title22{
+text-align: left;
+}
+#title23{
+text-align: right;
+}

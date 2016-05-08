@@ -3,30 +3,62 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:200);
 @import url(https://fonts.googleapis.com/css?family=Dosis:600);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif);
+@import url(https://fonts.googleapis.com/css?family=Lora);
 
 body {
-  background-color: #40495b;
-  background-image: url("sunfav.jpg");
-  position: relative;
+  background-color: navy;
+  background-image: url("Fly.jpg");
+  background-repeat: no-repeat;
+  background-origin: border-box;
+  background-position: center;
+
 }
 header {
-  background-color: #40495b;
+  background-image: url("Fly.jpg");
+  background-repeat: repeat;
+background-color: blue;
   font-family: "Montserrat", serif;
   border: 4px solid black;
   margin-bottom: 20px;
+  margin-top: 5px;
 }
   h1 {
   color: #f5f5dc;
-  font-size: 45px;
+  font-size: 50px;
   border-bottom: 7px solid #c1c2c0;
-  padding: 5px;
+  padding-left: 3px;
+  margin: 0;
+  word-spacing: 5px;
+  text-shadow: -1px -1px 0px rgba(255,255,255,0.3), 1px 1px 0px rgba(0,0,0,0.8);
 }
 h2 {
   color: pink;
-  font-size: 25px;
+  font-size: 35px;
   border-top: 7px solid #c1c2c0;
+  border-bottom: 7px solid #c1c2c0;
   padding: 5px;
+  padding-left: 100px;
+  width: 1132px;
+
 }
+
+nav {
+  text-align: center;
+  border-top: 7px solid #c1c2c0;
+}
+
+nav a {
+  text-decoration: none;
+  margin: 80px;
+  font-size: 30px;
+  font-family: 'PT Serif', serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+
 #para1 {
   color: #dda0dd;
   font-weight: bold;
@@ -35,94 +67,29 @@ h2 {
   box-sizing: border-box;
 }
 
-#photo1 {
-  padding-left: 200px;
-  padding-bottom: 20px;
-  padding-top: 30px;
-  box-sizing: border-box;
-  border-top: 5px solid #c1c2c0;
+#title1{
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+  margin-top: 10px;
+  font-family: 'Playfair Display', serif;
+  letter-spacing: 1px;
 }
-#photo2 {
-padding-left: 200px;
-padding-bottom: 20px;
-padding-top: 30px;
-box-sizing: border-box;
-border-top: 5px solid #c1c2c0;
+
+#title2{
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+  margin-top: 10px;
+  font-family: 'Playfair Display', serif;
+  letter-spacing: 1px;
 }
-#photo3 {
-  padding-left: 200px;
-  padding-bottom: 20px;
-  padding-top: 30px;
-  box-sizing: border-box;
-  border-top: 5px solid #c1c2c0;
-}
-#photo4 {
-  padding-left: 200px;
-  padding-bottom: 20px;
-  padding-top: 30px;
-  box-sizing: border-box;
-  border-top: 5px solid #c1c2c0;
-}
-#photo5 {
-  padding-left: 200px;
-  padding-bottom: 20px;
-  padding-top: 30px;
-  box-sizing: border-box;
-  border-top: 5px solid #c1c2c0;
-}
-#photo6 {
-padding-left: 200px;
-padding-bottom: 20px;
-padding-top: 30px;
-box-sizing: border-box;
-border-top: 5px solid #c1c2c0;
-}
-#photo7 {
-padding-left: 200px;
-padding-bottom: 20px;
-padding-top: 30px;
-box-sizing: border-box;
-border-top: 5px solid #c1c2c0;
-}
-#photo8 {
-padding-left: 200px;
-padding-bottom: 20px;
-padding-top: 30px;
-box-sizing: border-box;
-border-top: 5px solid #c1c2c0;
-}
-#photo9 {
-padding-left: 200px;
-padding-bottom: 20px;
-padding-top: 30px;
-box-sizing: border-box;
-border-top: 5px solid #c1c2c0;
-}
-#photo10 {
-padding-left: 200px;
-padding-bottom: 20px;
-padding-top: 30px;
-box-sizing: border-box;
-border-top: 5px solid #c1c2c0;
-}
-#photo11 {
-padding-left: 200px;
-padding-bottom: 20px;
-padding-top: 30px;
-box-sizing: border-box;
-border-top: 5px solid #c1c2c0;
-}
-#photo12 {
-padding-left: 200px;
-padding-bottom: 20px;
-padding-top: 30px;
-box-sizing: border-box;
-border-top: 5px solid #c1c2c0;
-}
-#photo13 {
-padding-left: 200px;
-padding-bottom: 20px;
-padding-top: 30px;
-box-sizing: border-box;
-border-top: 5px solid #c1c2c0;
+
+#title3{
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+  margin-top: 10px;
+  font-family: 'Playfair Display', serif;
+  letter-spacing: 1px;
 }
